@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    background-color: #8CB9BD;
+  }
+  
+  .column {
+      float: left;
+      width: 33.33%;
+      margin-right: 40px;
+    }
+  
+  .row:after {
+      content: " ";
+      display: table;
+      clear: both;
+    }
+  
+  .column2 {
+      float: right;
+      width: 33.33%;
+      margin-right: 40px;
+      text-align: center;
+  }
+  
+  .header {
+    background: url(computer.jpg);
+    padding: 20px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+  }
+  
+  .paraghraph1 {
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-size: 20px;
+      color: azure;
+      margin-left: 10px;
+      text-align: justify;
+  }
+  
+  .paraghraph2 {
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-size: 30px;
+      margin-right: 16px;
+      color: azure;
+  }
+  
+  .paraghraph3 {
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-size: 16px;
+      margin-left: 40px;
+      color: azure;
+      text-align: justify;
+  }
+
+  .paraghraph4 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-size: 25px;
+      margin-left: 40px;
+      color: azure;
+      text-align: right;
+  }
+  
+  
+  .list {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 20px;
+      color:aliceblue;
+      text-align: left;
+  }
